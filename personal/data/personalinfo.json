@@ -1,0 +1,25 @@
+[
+    {
+        "title": "fullname",
+        "icon": "fas fa-user-alt",
+        "content": "Nora Christy"
+    },
+
+    {
+        "title": "social status",
+        "icon": "fas fa-heart",
+        "content": "single"
+    },
+
+    {
+        "title": "date of birth",
+        "icon": "fas fa-birthday-cake",
+        "content": "24-8-1999"
+    },
+
+    {
+        "title": "nationality",
+        "icon": "fas fa-flag",
+        "content": "German"
+    }
+]

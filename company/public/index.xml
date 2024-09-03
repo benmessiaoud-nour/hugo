@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital company</title>
+    <link>/</link>
+    <description>Recent content on Digital company</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Aug 2024 13:43:59 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sixth Project</title>
+      <link>/projects/project6/</link>
+      <pubDate>Tue, 27 Aug 2024 13:43:59 +0200</pubDate>
+      <guid>/projects/project6/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+    <item>
+      <title>Fifth Project</title>
+      <link>/projects/project5/</link>
+      <pubDate>Tue, 27 Aug 2024 13:43:55 +0200</pubDate>
+      <guid>/projects/project5/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+    <item>
+      <title>Fourth Project</title>
+      <link>/projects/project4/</link>
+      <pubDate>Tue, 27 Aug 2024 13:42:00 +0200</pubDate>
+      <guid>/projects/project4/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+    <item>
+      <title>Third Project</title>
+      <link>/projects/project3/</link>
+      <pubDate>Tue, 27 Aug 2024 13:41:56 +0200</pubDate>
+      <guid>/projects/project3/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+    <item>
+      <title>Second project</title>
+      <link>/projects/project2/</link>
+      <pubDate>Tue, 27 Aug 2024 13:41:50 +0200</pubDate>
+      <guid>/projects/project2/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+    <item>
+      <title>first project</title>
+      <link>/projects/project1/</link>
+      <pubDate>Tue, 27 Aug 2024 13:41:45 +0200</pubDate>
+      <guid>/projects/project1/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+    <item>
+      <title>technical support</title>
+      <link>/services/service4/</link>
+      <pubDate>Sun, 25 Aug 2024 23:39:50 +0200</pubDate>
+      <guid>/services/service4/</guid>
+      <description>Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum vero corporis unde quas molestias delectus ipsum labore modi! Facilis quisquam magni adipisci nisi fugit, eum itaque quibusdam iure quaerat nobis porro sunt dolore omnis delectus maiores asperiores quos doloribus reprehenderit consequatur aliquid voluptates explicabo! Ipsum repellat dolorum in eaque dolores. At soluta libero, obcaecati dicta facilis voluptates necessitatibus debitis dolores veritatis incidunt, reiciendis atque mollitia laboriosam dolorum. Odit, sapiente repellat!</description>
+    </item>
+    <item>
+      <title>special programming</title>
+      <link>/services/service3/</link>
+      <pubDate>Sun, 25 Aug 2024 23:39:45 +0200</pubDate>
+      <guid>/services/service3/</guid>
+      <description>Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum vero corporis unde quas molestias delectus ipsum labore modi! Facilis quisquam magni adipisci nisi fugit, eum itaque quibusdam iure quaerat nobis porro sunt dolore omnis delectus maiores asperiores quos doloribus reprehenderit consequatur aliquid voluptates explicabo! Ipsum repellat dolorum in eaque dolores. At soluta libero, obcaecati dicta facilis voluptates necessitatibus debitis dolores veritatis incidunt, reiciendis atque mollitia laboriosam dolorum. Odit, sapiente repellat!</description>
+    </item>
+    <item>
+      <title>web hosting</title>
+      <link>/services/service2/</link>
+      <pubDate>Sun, 25 Aug 2024 23:39:39 +0200</pubDate>
+      <guid>/services/service2/</guid>
+      <description>Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum vero corporis unde quas molestias delectus ipsum labore modi! Facilis quisquam magni adipisci nisi fugit, eum itaque quibusdam iure quaerat nobis porro sunt dolore omnis delectus maiores asperiores quos doloribus reprehenderit consequatur aliquid voluptates explicabo! Ipsum repellat dolorum in eaque dolores. At soluta libero, obcaecati dicta facilis voluptates necessitatibus debitis dolores veritatis incidunt, reiciendis atque mollitia laboriosam dolorum. Odit, sapiente repellat!</description>
+    </item>
+    <item>
+      <title>web design</title>
+      <link>/services/service1/</link>
+      <pubDate>Sun, 25 Aug 2024 23:39:30 +0200</pubDate>
+      <guid>/services/service1/</guid>
+      <description>Lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum vero corporis unde quas molestias delectus ipsum labore modi! Facilis quisquam magni adipisci nisi fugit, eum itaque quibusdam iure quaerat nobis porro sunt dolore omnis delectus maiores asperiores quos doloribus reprehenderit consequatur aliquid voluptates explicabo! Ipsum repellat dolorum in eaque dolores. At soluta libero, obcaecati dicta facilis voluptates necessitatibus debitis dolores veritatis incidunt, reiciendis atque mollitia laboriosam dolorum. Odit, sapiente repellat!</description>
+    </item>
+  </channel>
+</rss>

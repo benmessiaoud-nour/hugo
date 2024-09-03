@@ -1,0 +1,19 @@
+{{$indicator := .Params.flag}}
+{{$target :="landing-page"}}
+<nav class="navbar">
+    <div class="navbar__container {{if eq $indicator $target}} navbar__container--main {{end}}">
+        <a href="/" class="logo">
+            <i class="fa-brands fa-cloudflare"></i>
+            <b>Digital</b>
+        </a>
+        {{if eq $indicator $target}}
+        <i class="fa-solid fa-bars hide phone-menu"></i>
+        <ul>
+        <li><a href="hero" class="active">about us</a></li>
+        <li><a href="services">services</a></li>
+        <li><a href="projects">projects</a></li>
+        <li><a href="contact-us">contact us</a></li>
+        </ul>
+        {{end }}
+    </div>
+</nav>

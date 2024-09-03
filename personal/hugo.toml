@@ -1,0 +1,4 @@
+baseURL = 'https://benmessiaoud-nour.github.io/personal-page/'
+relativeURLs=true
+languageCode = 'en-us'
+title = 'My personal page'

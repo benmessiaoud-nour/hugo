@@ -1,0 +1,16 @@
+<div class="card card--half" >
+    <h2>Qualifications</h2>
+
+    {{range .Site.Data.learning}}
+    <div class="line">
+        <div class="line__head">
+            <i class="{{.icon}}"></i>
+            <h4>{{.title}}</h4>
+            <div class="line__body">
+                <p>{{.content}}</p>
+            </div>
+        </div>
+    </div>
+    {{end}}
+</div>
+

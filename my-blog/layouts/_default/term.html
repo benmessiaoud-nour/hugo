@@ -1,0 +1,39 @@
+{{define "main"}}
+{{partial "navbar" . }}
+{{partial "hero" . }}
+
+<div class="posts-body">
+    <div class="posts-body__container">
+        <div class="row">
+           
+            
+            {{ range .Pages }}
+            <div class="card">
+                <div class="card-holder">
+                    <div class="card-head">
+                        <img src="{{ .Params.thumb }}" alt="">
+                    </div>
+                    <div class="card-body">
+                    
+                        <a href="{{ .Permalink }}">{{ .Title | truncate 30 }}</a>
+                        <div> 
+                    {{ range first 2 (.GetTerms "tags") }}
+                    <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+                    {{ end }}
+
+                    {{ range .GetTerms "categories" }}
+                    <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+                    {{ end }}
+
+                    <b>{{ .Date | dateFormat "2006" }}</b>
+               </div>
+                <p>{{ .Params.Summary | truncate 60 }}</p>
+            </div>
+            </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{partial "footer" . }}
+{{end}}

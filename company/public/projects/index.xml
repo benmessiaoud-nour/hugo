@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Digital company</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Digital company</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Aug 2024 13:43:59 +0200</lastBuildDate>
+    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sixth Project</title>
+      <link>/projects/project6/</link>
+      <pubDate>Tue, 27 Aug 2024 13:43:59 +0200</pubDate>
+      <guid>/projects/project6/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+    <item>
+      <title>Fifth Project</title>
+      <link>/projects/project5/</link>
+      <pubDate>Tue, 27 Aug 2024 13:43:55 +0200</pubDate>
+      <guid>/projects/project5/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+    <item>
+      <title>Fourth Project</title>
+      <link>/projects/project4/</link>
+      <pubDate>Tue, 27 Aug 2024 13:42:00 +0200</pubDate>
+      <guid>/projects/project4/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+    <item>
+      <title>Third Project</title>
+      <link>/projects/project3/</link>
+      <pubDate>Tue, 27 Aug 2024 13:41:56 +0200</pubDate>
+      <guid>/projects/project3/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+    <item>
+      <title>Second project</title>
+      <link>/projects/project2/</link>
+      <pubDate>Tue, 27 Aug 2024 13:41:50 +0200</pubDate>
+      <guid>/projects/project2/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+    <item>
+      <title>first project</title>
+      <link>/projects/project1/</link>
+      <pubDate>Tue, 27 Aug 2024 13:41:45 +0200</pubDate>
+      <guid>/projects/project1/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit rem molestias explicabo id doloribus suscipit.</description>
+    </item>
+  </channel>
+</rss>

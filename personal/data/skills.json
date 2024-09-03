@@ -1,0 +1,49 @@
+[
+    {
+        "title":"adobe indesign",
+        "percent":"88%",
+        "color": "#e749a0"
+    },
+
+    {
+    "title":"adobe photoshop",
+    "percent":"90%",
+    "color": "#87bdf4"
+},
+
+{
+    "title":"adobe illustrator",
+    "percent":"70%",
+    "color": "#f4a950"
+},
+
+{
+    "title":"coreldraw ",
+    "percent":"95%",
+    "color": "#8dd352"
+},
+
+{
+    "title":"adobe xd",
+    "percent":"75%",
+    "color": "#f75eee"
+},
+
+{
+    "title":"sketch",
+    "percent":"82%",
+    "color": "#00000"
+},
+
+{
+    "title":"UX",
+    "percent":"85%",
+    "color": "#00000"
+},
+
+{
+    "title":"colors selection",
+    "percent":"99%",
+    "color": "#f8874f"
+}
+]

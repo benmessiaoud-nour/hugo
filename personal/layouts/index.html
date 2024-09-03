@@ -1,0 +1,30 @@
+{{define "main"}}
+ {{partial "cover" .}}
+ <div class="page-body">
+    <div class="page-body__container">
+        <div class="row">
+              {{partial "personalinfo" .}}
+
+              {{partial "learning" .}}
+        </div>
+        <div class="row">
+            {{partial "skills" . }}
+        </div>
+
+        <div class="row">
+            {{partial "my-work" . }}
+        </div>
+
+        <div class="row">
+            {{partial "reviews" . }}
+            {{partial "contact" . }}
+        </div>
+    </div>
+ </div>
+ {{partial "footer" . }}
+{{end}}
+
+
+
+
+

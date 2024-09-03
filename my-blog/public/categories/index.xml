@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All sections of the blog on blog</title>
+    <link>/categories/</link>
+    <description>Recent content in All sections of the blog on blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Sep 2024 19:41:42 +0200</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Section 6</title>
+      <link>/categories/section-6/</link>
+      <pubDate>Sun, 01 Sep 2024 19:41:42 +0200</pubDate>
+      <guid>/categories/section-6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Section 3</title>
+      <link>/categories/section-3/</link>
+      <pubDate>Sun, 01 Sep 2024 19:40:56 +0200</pubDate>
+      <guid>/categories/section-3/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

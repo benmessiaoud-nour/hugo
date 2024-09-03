@@ -1,0 +1,8 @@
+baseURL = ''
+relativeURLs = "true"
+languageCode = 'en-us'
+title = 'blog'
+paginate = 9
+
+[permalinks]
+posts = "/topics/:title/"

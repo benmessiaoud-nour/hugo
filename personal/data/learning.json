@@ -1,0 +1,22 @@
+[
+    {
+        "title":"graphic design",
+        "icon":"fas fa-graduation-cap",
+        "time":"mai 2022",
+        "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, culpa"
+    },
+
+    {
+        "title":"graphic design course",
+        "icon":"fas fa-graduation-cap",
+        "time":"mai 2018",
+        "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, culpa"
+    },
+
+    {
+        "title":"color coordination course",
+        "icon":"fas fa-graduation-cap",
+        "time":"mai 2021",
+        "content":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, culpa"
+    }
+]

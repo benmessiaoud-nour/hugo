@@ -1,0 +1,26 @@
+[
+    {
+        "title": "tel",
+        "icon": "fas fa-phone",
+        "content": "00 000 000 00"
+    },
+
+    {
+        "title": "whatsApp",
+        "icon": "fas fa-whatsapp",
+        "content": "00 000 000 00"
+    },
+
+    {
+        "title": "personal email",
+        "icon": "fas fa-envelope",
+     "content": "example@example.com"
+    },
+
+    {
+        "title": "work email",
+        "icon": "fas fa-envelope",
+        "content": "example@example.com"
+    }
+   
+]
